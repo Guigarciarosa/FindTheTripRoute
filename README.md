@@ -7,6 +7,6 @@ Try to create a personalite planner, about your trip or places there you wanna g
 ### Step a Step
  > Collect data:
  >> 1.1 - Scrapping Data on the web
- >>> 1.2 - Clean all the Data with ETL Process
- >>>> 1.3 - Create a Datawarehouse
+ >> 1.2 - Clean all the Data with ETL Process
+ >> 1.3 - Create a Datawarehouse
     
